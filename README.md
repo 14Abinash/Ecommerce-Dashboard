@@ -1,4 +1,4 @@
-# Ecommerce-Dashboard
+# E-commerce-Dashboard
 Designed a power bi dashboard to track and analyze the online sales data acorss India.
 
 1. Sales: Total sales amount of 438K with 5615 items sold.
@@ -10,4 +10,4 @@ Designed a power bi dashboard to track and analyze the online sales data acorss 
 7. Monthly Trends: Profit fluctuations throughout the year.
 8. Category Insights: Focus on profitable categories like Printers and Bookcases.
 
-This concise overview captures the essential information from the dashboard. 📊👍
+This concise overview displays the essential information from the dashboard. 📊👍
